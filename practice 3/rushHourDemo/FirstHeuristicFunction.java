@@ -1,5 +1,5 @@
 package rushHourDemo;
-import aima.core.search.framework.HeuristicFunction;
+import aima.core.search.framework.evalfunc.HeuristicFunction;
 
 public class FirstHeuristicFunction implements HeuristicFunction {
 

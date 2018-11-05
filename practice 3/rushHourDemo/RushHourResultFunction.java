@@ -1,7 +1,7 @@
 package rushHourDemo;
 
 import aima.core.agent.Action;
-import aima.core.search.framework.ResultFunction;
+import aima.core.search.framework.problem.ResultFunction;
 
 public class RushHourResultFunction implements ResultFunction {
 

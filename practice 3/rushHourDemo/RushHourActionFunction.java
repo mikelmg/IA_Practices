@@ -3,7 +3,7 @@ package rushHourDemo;
 import java.util.Set;
 
 import aima.core.agent.Action;
-import aima.core.search.framework.ActionsFunction;
+import aima.core.search.framework.problem.ActionsFunction;
 
 public class RushHourActionFunction implements ActionsFunction {
 
